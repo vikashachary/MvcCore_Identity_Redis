@@ -45,10 +45,10 @@
         "version": "1.0.0-preview2-final",
         "type": "build"
     },
-    "Microsoft.Owin": "3.0.1",
-    "Microsoft.AspNet.Identity.Owin": "2.2.1",
-    "Microsoft.AspNet.WebApi.Core": "5.2.3",
-    "Microsoft.AspNet.Identity.Core": "2.2.1"
+    //"Microsoft.Owin": "3.0.1",
+    //"Microsoft.AspNet.Identity.Owin": "2.2.1",
+    //"Microsoft.AspNet.WebApi.Core": "5.2.3",
+    //"Microsoft.AspNet.Identity.Core": "2.2.1"
   },
 
   "tools": {
